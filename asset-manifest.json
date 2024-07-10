@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cinemate/static/css/main.d1648f82.css",
+    "main.js": "/Cinemate/static/js/main.41f78e48.js",
+    "static/media/logo.png": "/Cinemate/static/media/logo.0694d54cb31d46448efc.png",
+    "index.html": "/Cinemate/index.html",
+    "main.d1648f82.css.map": "/Cinemate/static/css/main.d1648f82.css.map",
+    "main.41f78e48.js.map": "/Cinemate/static/js/main.41f78e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1648f82.css",
+    "static/js/main.41f78e48.js"
+  ]
+}
